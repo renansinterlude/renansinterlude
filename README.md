@@ -18,3 +18,9 @@ Gosto de Halsey e filmes de terror.
 ### 🪁 Interesses: 
 - Análise e Desenvolvimento de Software 
 - Back-end
+
+#
+
+### 🧶 100DaysOfCode - Python
+
+Acompanhe meus estudos em Python [aqui](https://github.com/renansinterlude/pythons-interlude).
