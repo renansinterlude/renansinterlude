@@ -1,16 +1,20 @@
-### Hi there 👋
+### Oi, meu nome é Renan 😀
 
-<!--
-**renansinterlude/renansinterlude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudo Análise e Desenvolvimento de Sistemas na FATEC Ipiranga.
 
-Here are some ideas to get you started:
+Gosto de Halsey e filmes de terror.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#
+
+### 🧩 Conhecimentos: 
+- Python
+- C 
+- SQL 
+- HTML 
+- CSS  
+- Java  
+- Estruturas de Dados
+
+### 🪁 Interesses: 
+- Análise e Desenvolvimento de Software 
+- Back-end
